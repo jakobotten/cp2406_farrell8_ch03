@@ -22,5 +22,4 @@ public class CraftPricing {
         retailPrice = materialsCost + COST_PER_HOUR * hoursWorked + SHIPPING_COST;
         return retailPrice;
     }
-
 }
